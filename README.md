@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HamburgerPlsdotexe
 - 👀 I’m interested in money
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on anything, msg me on my page website form
+- 💞️ I’m looking to collaborate on anything, msg me on my website!
 - 📫 How to reach me: https://caglarcagatay.xyz/
 
 <!---
