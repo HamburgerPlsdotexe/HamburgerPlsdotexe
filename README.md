@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @HamburgerPlsdotexe
-- 👀 I’m interested in money
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on anything, msg me on my website!
-- 📫 How to reach me: https://caglarcagatay.xyz/
+- 📫 You can reach me through FormSpree on my website: https://caglarcagatay.xyz/
 
 <!---
 HamburgerPlsdotexe/HamburgerPlsdotexe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
